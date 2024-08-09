@@ -79,6 +79,10 @@ main{
     cursor: pointer;
 }
 
+#nav1-part2 h4:hover{
+    color: #7a7a7a;
+}
+
 #nav1-part2 h5{
     display: none;
 }
@@ -101,6 +105,11 @@ main{
     font-size: 17px;
     font-weight: 500;
     text-transform: uppercase;
+    cursor: pointer;
+}
+
+#nav2 h3:hover{
+    color: #6f6f6f;
 }
 
 #content{
