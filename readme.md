@@ -3,7 +3,6 @@
 This repository showcases a modern hero section design for the "Trendline" website, prioritizing a clean layout, impactful visuals, and user engagement. 
 
 ![Landscape Screenshot](docs/Image/TrendlineSS.png)
-<img src="docs/Image/TrendlineSS2.png" alt="Vertical Screenshot" width="400"/>
 
 ### Design Principles:
 ---
